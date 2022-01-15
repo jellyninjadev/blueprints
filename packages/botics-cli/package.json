@@ -50,7 +50,7 @@
     "ramdasauce": "2.1.0",
     "react-native-cli": "^2.0.1",
     "semver": "5.4.1",
-    "shelljs": "0.7.8",
+    "shelljs": "0.8.5",
     "which": "1.3.0"
   },
   "devDependencies": {
